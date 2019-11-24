@@ -1,0 +1,22 @@
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.exe.config
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.exe
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.pdb
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.xml
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.vbprojResolveAssemblyReference.cache
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi_Sederhana.Form1.resources
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi_Sederhana.Resources.resources
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.vbproj.GenerateResource.Cache
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.exe
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.xml
+D:\Praktikum Pemrograman Visual\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.exe.config
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.exe
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.xml
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.exe
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\bin\Debug\Aplikasi Sederhana.xml
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi_Sederhana.Form1.resources
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi_Sederhana.Resources.resources
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Aplikasi Sederhana\Aplikasi Sederhana\obj\Debug\Aplikasi Sederhana.vbproj.GenerateResource.Cache
